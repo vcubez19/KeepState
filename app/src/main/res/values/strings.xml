@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeepState</string>
+    <string name="change_text">Change text</string>
+    <string name="button_counter">Clicked button 0 times</string>
+    <string name="actual_button_text_counter">0</string>
+    <string name="button_color_text">Made the button what color?</string>
+</resources>
